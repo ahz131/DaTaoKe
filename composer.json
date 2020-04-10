@@ -1,0 +1,16 @@
+{
+    "name": "da-tao-ke/da-tao-ke",
+    "description": "dataoke",
+    "authors": [
+        {
+            "name": "zhangqiang",
+            "email": "734584023@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DaTaoke\\": "src/"
+        }
+    }
+}
